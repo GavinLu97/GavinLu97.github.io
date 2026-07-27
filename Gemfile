@@ -25,3 +25,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
 end
+
+gem "tzinfo-data", "~> 1.2026"
+
+gem "webrick", "~> 1.9"
