@@ -115,6 +115,10 @@ Guanyu Lu is currently a Ph.D. candidate at the [School of Data Science and Engi
 # 📖 Educations
 * *2022.09 - Present*, Ph.D. Candidate in Data Science and Engineering, East China Normal University, Shanghai, China.
 
+  Supervisors: [Cheqing Jin](https://faculty.ecnu.edu.cn/_s37/jcq/main.psp), [Fang Zhou](https://sites.google.com/view/fangzhou), and [Jiali Mao](https://faculty.ecnu.edu.cn/_s37/mjl/main.psp).
+
 * *2019.09 - 2022.05*, M.Eng. in Computer Technology, Shanghai University of Electric Power, Shanghai, China.
+
+  Supervisor: [Xiuxia Tian](https://fai.shiep.edu.cn/1a/cf/c6541a269007/page.htm).
 
 * *2015.09 - 2019.06*, B.Eng. in Network Engineering, Shandong University of Science and Technology, Qingdao, China.
