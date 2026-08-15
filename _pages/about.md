@@ -18,12 +18,14 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-intro" markdown="1">
-Guanyu Lu is currently a Ph.D. candidate at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/), under the supervision of Prof. [Cheqing Jin](https://faculty.ecnu.edu.cn/_s37/jcq/main.psp) and Assoc. Prof. [Fang Zhou](https://sites.google.com/view/fangzhou). His research interests include Open-world Machine Learning, Multimodal Large Language Models (e.g., Vision Language Models), and intelligent risk analytics for financial and industrial systems. His research focuses on robust anomaly representation learning under challenging conditions, including data contamination, limited supervision, and zero-shot settings, with the goal of enhancing cross-domain anomaly perception and generalization. He has published papers at leading international conferences in data management and computer vision, including ICDE, SIGKDD, DASFAA, and ECCV.
+Guanyu Lu is currently a Ph.D. candidate at the [School of Data Science and Engineering](https://dase.ecnu.edu.cn/), [East China Normal University](https://www.ecnu.edu.cn/), under the supervision of Prof. [Cheqing Jin](https://faculty.ecnu.edu.cn/_s37/jcq/main.psp) and Assoc. Prof. [Fang Zhou](https://sites.google.com/view/fangzhou). His research interests include Open-world Machine Learning, Multimodal Large Language Models (e.g., Vision Language Models), and intelligent risk analytics for financial and industrial systems. His research focuses on robust anomaly representation learning under challenging conditions, including data contamination, limited supervision, and zero-shot settings, with the goal of enhancing cross-domain anomaly perception and generalization. He has published papers at leading international conferences in data management and computer vision, including ICDE, SIGKDD, CIKM, DASFAA, and ECCV.
 </div>
 
 
 # 🔥 News
 <div class="news-scroll" markdown="1">
+
+* *2026.08*:  🎉 One paper has been accepted to **CIKM 2026**.
 
 * *2026.07*:  🎉 One paper has been accepted to **WISA 2026** and recommended to the *Journal of Frontiers of Computer Science and Technology* for publication.
 
