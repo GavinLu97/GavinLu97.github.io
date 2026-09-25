@@ -25,6 +25,8 @@ Guanyu Lu is currently a Ph.D. candidate at the [School of Data Science and Engi
 # 🔥 News
 <div class="news-scroll" markdown="1">
 
+* *2026.09*:  🎤 Virtually attended **ECCV 2026** in Malmö, and gave a poster presentation.
+
 * *2026.08*:  🎉 One paper has been accepted to **CIKM 2026**.
 
 * *2026.07*:  🎉 One paper has been accepted to **WISA 2026** and recommended to the *Journal of Frontiers of Computer Science and Technology* for publication.
@@ -106,8 +108,8 @@ Guanyu Lu is currently a Ph.D. candidate at the [School of Data Science and Engi
 # 🎖 Honors and Awards
 
 * *2025.12*:  华东师范大学优秀学生
-* *2025.12*:  华东师范大学数据学院埃宏企业奖学金
-* *2024.12*:  华东师范大学数据学院优必杰企业奖学金
+* *2025.12*:  埃宏企业奖学金
+* *2024.12*:  优必杰企业奖学金
 * *2020.11*:  第六届中国国际“互联网+”大学生创新创业大赛全国总决赛金奖
 * *2020.08*:  “华数杯”全国大学生数学建模竞赛一等奖
 * *2019.06*:  **山东省优秀毕业生**
