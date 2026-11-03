@@ -62,6 +62,12 @@ Guanyu Lu is currently a Ph.D. candidate at the [School of Data Science and Engi
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+* [*VISRA: Vision-Language Induced Supervision and Representation Alignment for Long-Tailed Generalized Category Discovery*](https://dl.acm.org/doi/10.1145/3799682.3841101)
+
+  Yizhong Zhang, Hongzhe Shou, <span style="color:#38A3DB; font-weight:900;">Guanyu Lu</span>, Fang Zhou.
+
+  In **CIKM, 2026**, Rome, Italy.
+
 * [*Robust Zero-shot Anomaly Detection under Limited Auxiliary Anomaly Priors*](https://arxiv.org/abs/2606.29428)
 
   <span style="color:#38A3DB; font-weight:900;">Guanyu Lu</span>, Fang Zhou, Cheqing Jin.
